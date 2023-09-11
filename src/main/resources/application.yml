@@ -1,0 +1,13 @@
+#server:
+#  port: 8088
+#
+#spring:
+#  r2dbc:
+#    url: r2dbc:pool:postgresql://localhost:5432/project
+#    username: user
+#    password: 123
+#  flyway:
+#    url: jdbc:postgresql://localhost:5432/project
+#    locations: classpath:db/version
+#    user: user
+#    password: 123
