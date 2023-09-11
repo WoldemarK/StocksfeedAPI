@@ -1,4 +1,4 @@
-package com.example.stocks_feed_api.exception;
+package com.proselyteapi.exception;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

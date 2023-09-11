@@ -1,4 +1,4 @@
-package com.example.stocks_feed_api.exception;
+package com.proselyteapi.exception;
 
 public class BusinessException extends RuntimeException{
     public BusinessException(String message) {
