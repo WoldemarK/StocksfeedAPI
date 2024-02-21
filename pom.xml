@@ -21,7 +21,7 @@
         <org.projectlombok>1.18.28</org.projectlombok>
         <org.mapstruct>1.5.3.Final</org.mapstruct>
         <javax.xml.bind>2.3.1</javax.xml.bind>
-        <org.postgresql>42.6.0</org.postgresql>
+        <org.postgresql>42.7.2</org.postgresql>
         <org.flywaydb>9.22.0</org.flywaydb>
         <io.r2dbc>0.8.10.RELEASE</io.r2dbc>
         <java.version>17</java.version>
